@@ -1,15 +1,12 @@
-<?php
- 
-/**
- 
+<?php 
+/** 
  * Zen Cart German Specific
  * @copyright Copyright 2003-2022 Zen Cart Development Team
  * Zen Cart German Version - www.zen-cart-pro.at
  * @copyright Portions Copyright 2003 osCommerce
  * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
- * @version $Id: product.php for Soundcloud 2022-06-04 19:49:16Z webchills $
+ * @version $Id: product.php for Soundcloud 2022-06-04 19:58:16Z webchills $
  */
-
 
 define('TEXT_PRODUCTS_STATUS', 'Products Status:');
 define('TEXT_PRODUCTS_VIRTUAL', 'Product is Virtual:');
@@ -31,7 +28,7 @@ define('TEXT_PRODUCTS_QTY_BOX_STATUS_PREVIEW', 'Warning: Does not show Quantity 
 
 define('TEXT_PRODUCTS_MANUFACTURER', 'Products Manufacturer:');
 define('TEXT_PRODUCTS_NAME', 'Products Name:');
-define('TEXT_PRODUCTS_MERKMALE', 'Merkmale für Buttonlösung:');
+define('TEXT_PRODUCTS_MERKMALE', 'Merkmale fÃ¼r ButtonlÃ¶sung:');
 define('TEXT_PRODUCTS_DESCRIPTION', 'Products Description:');
 define('TEXT_PRODUCTS_QUANTITY', 'Products Quantity:');
 define('TEXT_PRODUCTS_IMAGE', 'Product Image:');
