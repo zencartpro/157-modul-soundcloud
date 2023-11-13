@@ -1,4 +1,4 @@
-SoundCloud Stream auf Artikeldetailseite 1.3.0 für Zen Cart 1.5.7 deutsch
+SoundCloud Stream auf Artikeldetailseite 1.4.0 für Zen Cart 1.5.7 deutsch
 
 Mit dieser Erweiterung kann ein SoundCloud Stream auf der Artikeldetailseite integriert werden.
 Der Stream wird responsiv eingebunden.
@@ -8,7 +8,9 @@ Es ist also nicht nötig den kompletten Einbettungscode zu verwenden und die Anz
 
 Installation und Verwendung:
 
-Dieses Modul ist nur für Zen Cart 1.5.7 deutsch geeignet.
+Dieses Modul ist nur für Zen Cart 1.5.7g deutsch geeignet.
+Stellen Sie sicher, dass Sie Ihren Shop auf 1.5.7g aktualisiert haben, bevor Sie dieses Modul installieren.
+Die mitgelieferten geänderten Dateien sind auf dem Stand von 1.5.7g!
 
 Für den Einbau dieses Moduls sollten Sie über folgende Werkzeuge verfügen:
 
@@ -38,8 +40,8 @@ Die Installation erfolgt in folgenden Schritten. Halten Sie diesen Ablauf ein!
 
 1.
 Im Ordner GEAENDERTE DATEIEN den Ordner DEINADMIN auf den Namen Ihres Adminverzeichnisses umbenennen
-Wenn Sie Zen Cart 1.5.7 gerade frisch installiert haben und noch keinerlei Änderungen an den Dateien vorgenommen haben, können Sie nun alle Dateien/Ordner aus dem Ordner GEAENDERTE DATEIEN in der vorgegebenen Struktur in die Zen Cart Installation hochladen. Dabei werden dann etliche Dateien überschrieben.
-Wenn Sie Zen Cart 1.5.7 schon länger im Einsatz haben und schon einmal Änderungen an Dateien vorgenommen oder andere Module eingebaut haben, dann laden Sie die Dateien keinesfalls einfach hoch.
+Wenn Sie Zen Cart 1.5.7g gerade frisch installiert haben und noch keinerlei Änderungen an den Dateien vorgenommen haben, können Sie nun alle Dateien/Ordner aus dem Ordner GEAENDERTE DATEIEN in der vorgegebenen Struktur in die Zen Cart Installation hochladen. Dabei werden dann etliche Dateien überschrieben.
+Wenn Sie Zen Cart 1.5.7g schon länger im Einsatz haben und schon einmal Änderungen an Dateien vorgenommen oder andere Module eingebaut haben, dann laden Sie die Dateien keinesfalls einfach hoch.
 Vergleichen Sie alle Dateien im Ordner GEAENDERTE DATEIEN mit den entsprechenden Dateien in Ihrem Shop und nehmen Sie die Änderungen manuell per WinMerge oder BeyondCompare vor.
 Dann spielen Sie die geänderten Dateien in der gezeigten Struktur ein.
 
