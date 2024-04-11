@@ -1,4 +1,4 @@
-SoundCloud Stream auf Artikeldetailseite 1.4.0 für Zen Cart 1.5.7 deutsch
+SoundCloud Stream auf Artikeldetailseite 1.4.1 für Zen Cart 1.5.7 deutsch
 
 Mit dieser Erweiterung kann ein SoundCloud Stream auf der Artikeldetailseite integriert werden.
 Der Stream wird responsiv eingebunden.
@@ -8,9 +8,9 @@ Es ist also nicht nötig den kompletten Einbettungscode zu verwenden und die Anz
 
 Installation und Verwendung:
 
-Dieses Modul ist nur für Zen Cart 1.5.7g deutsch geeignet.
-Stellen Sie sicher, dass Sie Ihren Shop auf 1.5.7g aktualisiert haben, bevor Sie dieses Modul installieren.
-Die mitgelieferten geänderten Dateien sind auf dem Stand von 1.5.7g!
+Dieses Modul ist nur für Zen Cart 1.5.7h deutsch geeignet.
+Stellen Sie sicher, dass Sie Ihren Shop auf 1.5.7h aktualisiert haben, bevor Sie dieses Modul installieren.
+Die mitgelieferten geänderten Dateien sind auf dem Stand von 1.5.7h!
 
 Für den Einbau dieses Moduls sollten Sie über folgende Werkzeuge verfügen:
 
@@ -40,8 +40,8 @@ Die Installation erfolgt in folgenden Schritten. Halten Sie diesen Ablauf ein!
 
 1.
 Im Ordner GEAENDERTE DATEIEN den Ordner DEINADMIN auf den Namen Ihres Adminverzeichnisses umbenennen
-Wenn Sie Zen Cart 1.5.7g gerade frisch installiert haben und noch keinerlei Änderungen an den Dateien vorgenommen haben, können Sie nun alle Dateien/Ordner aus dem Ordner GEAENDERTE DATEIEN in der vorgegebenen Struktur in die Zen Cart Installation hochladen. Dabei werden dann etliche Dateien überschrieben.
-Wenn Sie Zen Cart 1.5.7g schon länger im Einsatz haben und schon einmal Änderungen an Dateien vorgenommen oder andere Module eingebaut haben, dann laden Sie die Dateien keinesfalls einfach hoch.
+Wenn Sie Zen Cart 1.5.7h gerade frisch installiert haben und noch keinerlei Änderungen an den Dateien vorgenommen haben, können Sie nun alle Dateien/Ordner aus dem Ordner GEAENDERTE DATEIEN in der vorgegebenen Struktur in die Zen Cart Installation hochladen. Dabei werden dann etliche Dateien überschrieben.
+Wenn Sie Zen Cart 1.5.7h schon länger im Einsatz haben und schon einmal Änderungen an Dateien vorgenommen oder andere Module eingebaut haben, dann laden Sie die Dateien keinesfalls einfach hoch.
 Vergleichen Sie alle Dateien im Ordner GEAENDERTE DATEIEN mit den entsprechenden Dateien in Ihrem Shop und nehmen Sie die Änderungen manuell per WinMerge oder BeyondCompare vor.
 Dann spielen Sie die geänderten Dateien in der gezeigten Struktur ein.
 
@@ -50,6 +50,7 @@ Die Datei install.sql im Ordner SQL mit einem Texteditor öffen und den Inhalt k
 
 3.
 Zen Cart Administration öffnen und unter Tools > SQL Patches installieren den Inhalt ins Feld hineinkopieren und absenden.
+Unter PHP 8.2 kann dabei ein völlig harmloses Debug Log erzeugt werden (undefined array key ...). Einfach löschen.
 
 4.
 Beim Bearbeiten eines Artikels steht nun unten das Feld SoundCloud Track ID zur Verfügung.
